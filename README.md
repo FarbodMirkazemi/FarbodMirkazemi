@@ -138,11 +138,3 @@ Providing both online and in-person instruction in English and Farsi.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarbodMirkazemi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarbodMirkazemi&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarbodMirkazemi&layout=compact&theme=tokyonight"/>
-</p>
