@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, I'm Farbod</h1>
-<p align="center">They call me <b>Ludens</b>.</p>
+<h1 align="center">Hey 👋, I'm Farbod<br><sub>They call me <b>Ludens</b></sub></h1>
 <h3 align="center">Artificial Intelligence Developer • Educator • Researcher</h3>
 
 I am an AI developer, educator, and researcher with experience in Machine Learning, Deep Learning, Computer Vision, Data Science, and a little bit of Bioinformatics. I currently teach Artificial Intelligence from beginner to advanced levels while developing practical AI solutions and conducting research in machine learning applications.
