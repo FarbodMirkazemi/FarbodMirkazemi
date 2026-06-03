@@ -158,10 +158,20 @@ Providing both online and in-person instruction in English and Farsi.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/](https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/)
-* GitHub: https://github.com/FarbodMirkazemi
-* Email: [mirkazemifarbod5@outlook.com](mailto:mirkazemifarbod5@outlook.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://github.com/FarbodMirkazemi" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+
+<a href="mailto:mirkazemifarbod5@outlook.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftoutlook.svg" alt="email" height="40" width="40" />
+</a>
+</p>
 
 ---
