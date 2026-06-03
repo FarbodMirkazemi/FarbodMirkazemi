@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Farbod</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">Artificial Intelligence Developer • Educator • Researcher</h3>
 
-I am an AI developer, educator, and researcher with experience in Machine Learning, Deep Learning, Computer Vision, Data Science, and Bioinformatics. I currently teach Artificial Intelligence from beginner to advanced levels while developing practical AI solutions and conducting research in machine learning applications.
+I am an AI developer, educator, and researcher with experience in Machine Learning, Deep Learning, Computer Vision, Data Science, and a little bit of Bioinformatics. I currently teach Artificial Intelligence from beginner to advanced levels while developing practical AI solutions and conducting research in machine learning applications.
 
 ---
 
@@ -9,14 +9,14 @@ I am an AI developer, educator, and researcher with experience in Machine Learni
 
 ### Shahid Beheshti University
 
-**M.Sc. in Computer Science**
-Specialization: Algorithm & Computation Theory
+**M.Sc. in Computer Science**\
+Specialization: Algorithm & Computation Theory\
 *2024 – Present*
 
 ### Garmsar University
 
-**B.Sc. in Computer Science** *(Summa Cum Laude)*
-GPA: 3.77 / 4.0
+**B.Sc. in Computer Science** *(Summa Cum Laude)*\
+GPA: 3.77 / 4.0\
 *2020 – 2024*
 
 ---
@@ -135,19 +135,14 @@ Providing both online and in-person instruction in English and Farsi.
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarbodMirkazemi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## Tech Stack
+## 📊 GitHub Statistics
 
-### Languages
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarbodMirkazemi&show_icons=true&theme=tokyonight"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarbodMirkazemi&layout=compact&theme=tokyonight"/>
+</p>
