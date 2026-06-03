@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Farbod Mirkazemi</h1>
-<h3 align="center">A passionate AI developer from Iran</h3>
+<h1 align="center">Hey 👋, I'm Farbod</h1>
+<h3 align="center">A passionate AI developer</h3>
 
-**M.Sc. Student in Computer Science (Algorithm & Computation Theory)**
-**Artificial Intelligence Engineer | AI Educator | Researcher**
-
-I am an AI engineer, educator, and researcher with experience in Machine Learning, Deep Learning, Computer Vision, Data Science, and Bioinformatics. I currently teach Artificial Intelligence from beginner to advanced levels while developing practical AI solutions and conducting research in machine learning applications.
+I am an AI developer, educator, and researcher with experience in Machine Learning, Deep Learning, Computer Vision, Data Science, and Bioinformatics. I currently teach Artificial Intelligence from beginner to advanced levels while developing practical AI solutions and conducting research in machine learning applications.
 
 ---
 
@@ -132,9 +129,7 @@ Providing both online and in-person instruction in English and Farsi.
 <a href="https://twitter.com/ludens2048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ludens2048" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farbod-mirkazemi-b440511ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farbod-mirkazemi-b440511ba" height="30" width="40" /></a>
 <a href="https://instagram.com/farbodmirkazemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farbodmirkazemi" height="30" width="40" /></a>
-</p>
-<a href="mailto:mirkazemifarbod5@outlook.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftoutlook.svg" alt="email" height="40" width="40" />
+<a href="mailto:mirkazemifarbod5@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftoutlook.svg" alt="email" height="30" width="40" />
 </a>
 </p>
 
