@@ -160,7 +160,7 @@ Providing both online and in-person instruction in English and Farsi.
 
 ## 📫 Connect With Me
 
-* LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/)
+* LinkedIn: [https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/](https://www.linkedin.com/in/farbod-mirkazemi-b440511ba/)
 * GitHub: https://github.com/FarbodMirkazemi
 * Email: [mirkazemifarbod5@outlook.com](mailto:mirkazemifarbod5@outlook.com)
 
